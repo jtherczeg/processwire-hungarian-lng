@@ -8,16 +8,16 @@ best suitable for business, corporate and e-commerce sites.
 How to Install a Language Pack
 ------------------------------
 
-1. 'Download the language pack from GitHub.'
+1. Download the language pack from GitHub.
    Click **Download ZIP** on the home page of this repository.
-2. 'Login to your ProcessWire Admin and install the **Languages Support** core module.'
+2. Login to your ProcessWire Admin and install the **Languages Support** core module.
    Open Modules > Language > Languages Support: click **Install**
-3. 'Add your language.'
+3. Add your language.
    Open Setup > Languages > Add New: enter the name for your new language in the Name field. Click **Save**.
-4. 'Import the downloaded language pack in your ProcessWire installation.'
+4. Import the downloaded language pack in your ProcessWire installation.
    Open Setup > Languages > [your language] > Content > Site Translation Files,
    browse for the downloaded ZIP file on your local computer or drag-and-drop it 
-5. 'Set the new language as default to your profile.'
+5. Set the new language as default to your profile.
    Click <i class="icon-wrench"></i> > Profile and in the 'Language' section of the screen that loaded, select your new language, then click **Submit**.
    
 > **Important:** You can use the included site translation files for sites with
@@ -35,9 +35,9 @@ How to Upgrade a Language Pack
 
 Language Pack Support
 ---------------------
-#### <i class="icon-download"></i> Download language pack from the [ProcessWire Modules Directory](http://modules.processwire.com/)
-#### <i class="icon-comment"></i> Discuss your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/7243-hungarian-hu-hu/)
-#### <i class="icon-bug"></i> Report an issue, even a typo, you found at [GitHub](https://github.com/jtherczeg/processwire-hungarian-lng/issues)
+- **Download** the language pack from the [ProcessWire Modules Directory](http://modules.processwire.com/)
+- **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/7243-hungarian-hu-hu/)
+- **Report** an issue, even a typo, you found at [GitHub](https://github.com/jtherczeg/processwire-hungarian-lng/issues)
 
 
 About ProcessWire Briefly
@@ -45,4 +45,4 @@ About ProcessWire Briefly
 ProcessWire is an award-winning open source CMS (content management system)
 and framework built on PHP5 and MySQL, having a jQuery-inspired API. It supports custom fields and provides a powerful template system.
 
-If you would like to learn more, visit the <i class="icon-home"></i> [ProcessWire homepage](http://processwire.com/).
+If you would like to learn more, visit the [ProcessWire homepage](http://processwire.com/).
