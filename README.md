@@ -35,7 +35,7 @@ How to Upgrade a Language Pack
 
 Language Pack Support
 ---------------------
-- **Download** the language pack from the [ProcessWire Modules Directory](http://modules.processwire.com/)
+- **Download** this language pack from the [ProcessWire Modules Directory](http://modules.processwire.com/modules/hungarian/)
 - **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/7243-hungarian-hu-hu/)
 - **Report** an issue, even a typo, you found at [GitHub](https://github.com/jtherczeg/processwire-hungarian-lng/issues)
 
