@@ -408,7 +408,7 @@
             "text": "API: $template->noUnpublish = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val"
         },
         "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val, alap\u00e9rtelez\u00e9s: 0."
+            "text": "API: $template->allowChangeUser = 1; \/\/ vagy letilt\u00e1s 0 megad\u00e1s\u00e1val, alap\u00e9rtelmez\u00e9s: 0."
         },
         "8a08c3b7f2922be4ad8e59744781b796": {
             "text": "Lapn\u00e9v form\u00e1tuma"

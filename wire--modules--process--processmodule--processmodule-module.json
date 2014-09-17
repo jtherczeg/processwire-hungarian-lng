@@ -33,7 +33,7 @@
             "text": "A modul telep\u00edtve"
         },
         "ea90a0c1864c51f82f862a6850c13951": {
-            "text": "T\u00f6r\u00f6lt modulf\u00e1jlok"
+            "text": "A modulf\u00e1jlok t\u00f6r\u00f6lve"
         },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
             "text": "Webhely"
@@ -45,10 +45,10 @@
             "text": "Modul elt\u00e1vol\u00edt\u00e1s\u00e1hoz kattintson a modulra a szerkeszt\u00e9s\u00e9hez, jel\u00f6lje be az 'elt\u00e1vol\u00edt\u00e1s' jel\u00f6l\u0151n\u00e9gyzetet, majd mentse. A modul f\u00e1jlja(i) elt\u00e1vol\u00edt\u00e1s ut\u00e1n t\u00f6r\u00f6lhet\u0151(k) a \/site\/modules\/ k\u00f6nyvt\u00e1rb\u00f3l. Ha tov\u00e1bbra is megjelenik a fenti list\u00e1ban, akkor lehet, hogy az '\u00faj modulok keres\u00e9se' gombra kell kattintania, hogy a ProcessWire l\u00e1ssa a v\u00e1ltoz\u00e1st."
         },
         "83168e6cb289d732cc78427b51f93153": {
-            "text": "Alapmodul"
+            "text": "F\u0151modul"
         },
         "401aeb1b99895a172d78edfa183114e7": {
-            "text": "\/wire\/modules\/ - A ProcessWire alaprendszer moduljai"
+            "text": "\/wire\/modules\/ - A ProcessWire f\u0151rendszer moduljai"
         },
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "\u00daj"
@@ -201,7 +201,7 @@
             "text": "Be\u00e1ll\u00edt\u00e1sok"
         },
         "16cc8e66dedb68f1f49e919c348e3de5": {
-            "text": "M\u00e9g nem"
+            "text": "M\u00e9g nincs"
         },
         "874966d700b2e2cca2577a2eac1d28f0": {
             "text": "Oszt\u00e1ly"
@@ -306,7 +306,7 @@
             "text": "Tal\u00e1lva"
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
-            "text": "Ez a modul nem jelez kompatibilit\u00e1st a ProcessWire ezen verzi\u00f3j\u00e1val. M\u0171k\u00f6dhet m\u00e9g, viszont lehet, hogy \u00e9rdekl\u0151dnie kell a modul szerz\u0151j\u00e9n\u00e9l."
+            "text": "Ez a modul nem jelez kompatibilit\u00e1st ezzel a ProcessWire verzi\u00f3val. M\u0171k\u00f6dhet m\u00e9g, viszont lehet, hogy \u00e9rdekl\u0151dnie kell a modul szerz\u0151j\u00e9n\u00e9l."
         },
         "bfaf55307f89bbad2f781f3ea25fae91": {
             "text": "Elt\u00e1vol\u00edtatlanul hagy\u00e1s"
@@ -331,6 +331,9 @@
         },
         "19d1a8e075651f072ba0771e6cbc831b": {
             "text": "A modult\u00e1rban a %s c\u00edmen kereshet"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "A(z) \"%s\" modult k\u00f6veteli meg a telep\u00edt\u00e9se el\u0151tt"
         }
     }
 }
