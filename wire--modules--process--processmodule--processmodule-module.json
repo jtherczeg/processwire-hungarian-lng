@@ -53,9 +53,6 @@
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "\u00daj"
         },
-        "cb4e8aca2c4d3f2f34a8019ac88458bd": {
-            "text": "\u00dajonnan tal\u00e1lt modulok"
-        },
         "94e84ea867143991751f06bad2b5da30": {
             "text": "Az utols\u00f3 \u00f3r\u00e1ban"
         },
@@ -309,7 +306,7 @@
             "text": "Ez a modul nem jelez kompatibilit\u00e1st ezzel a ProcessWire verzi\u00f3val. M\u0171k\u00f6dhet m\u00e9g, viszont lehet, hogy \u00e9rdekl\u0151dnie kell a modul szerz\u0151j\u00e9n\u00e9l."
         },
         "bfaf55307f89bbad2f781f3ea25fae91": {
-            "text": "Elt\u00e1vol\u00edtatlanul hagy\u00e1s"
+            "text": "Telep\u00edtetlen\u00fcl hagy\u00e1s"
         },
         "d79883f0aa4bbfa29cfade81d86f4914": {
             "text": "A k\u00f6vetkez\u0151ket is telep\u00edti:"
@@ -334,6 +331,27 @@
         },
         "67f02952b064d6064216f2639a516eca": {
             "text": "A(z) \"%s\" modult k\u00f6veteli meg a telep\u00edt\u00e9se el\u0151tt"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigur\u00e1l\u00e1s"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Konfigur\u00e1ci\u00f3s be\u00e1ll\u00edt\u00e1sokkal rendelkez\u0151 modulok"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "A f\u00e1jlrendszerben megtal\u00e1lhat\u00f3, jelenleg nem telep\u00edtett modulok"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u00daj hozz\u00e1ad\u00e1sa"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Friss\u00edt\u00e9s"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Telep\u00edt\u00e9s"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Telep\u00edti a(z) %s modult?"
         }
     }
 }
