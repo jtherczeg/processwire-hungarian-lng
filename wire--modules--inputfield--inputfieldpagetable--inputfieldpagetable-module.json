@@ -82,6 +82,15 @@
         },
         "e4f63a8ac32b32675310ab45dd15e6cb": {
             "text": "Ha a n\u00e9vform\u00e1tum b\u00e1rmilyen nem alfanumerikus karaktert tartalmaz, akkor azt [PHP d\u00e1tumform\u00e1tumnak](http:\/\/www.php.net\/manual\/en\/function.date.php) tekinti a program. Ha csak alfanumerikus karaktereket tartalmaz, akkor k\u00f6zvetlen\u00fcl fog felhaszn\u00e1l\u00e1sra ker\u00fclni, az egyedis\u00e9g biztos\u00edt\u00e1sa c\u00e9lj\u00e1b\u00f3l a v\u00e9g\u00e9hez hozz\u00e1f\u0171z\u00f6tt sz\u00e1mmal (sz\u00fcks\u00e9g eset\u00e9n)."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Gyermekek tal\u00e1lhat\u00f3k, melyek hozz\u00e1adhat\u00f3k ehhez a t\u00e1bl\u00e1zathoz. Jel\u00f6lje be azoknak a jel\u00f6l\u0151n\u00e9gyzeteit, melyeket hozz\u00e1 szeretn\u00e9 adni."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Az \u00f6sszes kijel\u00f6l\u00e9se"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Hozz\u00e1adva %d l\u00e9tez\u0151 lap a t\u00e1bl\u00e1zathoz"
         }
     }
 }

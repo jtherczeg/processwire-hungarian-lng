@@ -25,6 +25,12 @@
         },
         "7b9ea642d1b10d7efc18d2c64a8940f8": {
             "text": "A d\u00e1tum\/id\u0151 kimenete az al\u00e1bbi form\u00e1tumnak fog megfelelni. Ez automatikusan ker\u00fcl fel\u00e9p\u00edt\u00e9sre a fenti d\u00e1tum\/id\u0151 v\u00e1laszt\u00e1sokb\u00f3l, viszont sz\u00fcks\u00e9g eset\u00e9n ig\u00e9ny szerint m\u00f3dos\u00edthat\u00f3."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "A relat\u00edv d\u00e1tum-\/id\u0151form\u00e1tumokhoz l\u00e1sd az Id\u0151 kimeneti form\u00e1tum\u00e1t."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix id\u0151b\u00e9lyegz\u00e9s)"
         }
     }
 }
