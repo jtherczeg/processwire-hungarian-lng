@@ -40,6 +40,9 @@
         },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Ez kitiszt\u00edtja a ProcessWire r\u00e9gebbi verzi\u00f3iban azt, ami egy hiba miatt t\u00f6r\u00f6lt lapok \u00e1rva laphivatkoz\u00e1sait hagyhatta. Ha pontatlan eredm\u00e9nyeket kap egy m\u0171veleteket keres\u0151 lapb\u00f3l (els\u0151sorban a pageref.count \u00e9rt\u00e9ket haszn\u00e1l\u00f3 v\u00e1laszt\u00f3kkal), akkor \u00e9rdemes ezt lefuttathatnia."
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Mennyis\u00e9g"
         }
     }
 }
