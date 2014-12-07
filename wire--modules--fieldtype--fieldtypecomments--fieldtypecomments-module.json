@@ -121,6 +121,51 @@
         },
         "d2c1e7bd67d4253ff76376ed718cf94f": {
             "text": "Ha bejel\u00f6li, akkor hozz\u00e1sz\u00f3l\u00e1s bek\u00fcld\u00e9sekor a lap m\u00f3dos\u00edt\u00e1si ideje \u00e9s a felhaszn\u00e1l\u00f3 nem ker\u00fcl friss\u00edt\u00e9sre."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "\u00c9rtes\u00edt\u00e9s t\u00edpusa"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Nincs \u00e9rtes\u00edt\u00e9s k\u00fcld\u00e9s"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "\u00c9rtes\u00edt\u00e9sek k\u00fcld\u00e9se megadott e-mail c\u00edmre"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "\u00c9rtes\u00edt\u00e9sek k\u00fcld\u00e9se annak a felhaszn\u00e1l\u00f3nak, aki l\u00e9trehozta a lapot"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "\u00c9rtes\u00edt\u00e9sek k\u00fcld\u00e9se a megadott felhaszn\u00e1l\u00f3nak"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "V\u00e1lasz m\u00e9lys\u00e9ge"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Sz\u00f6vegform\u00e1z\u00f3k"
+        },
+        "244b33509aa9c5f8b21f92ca80cbdca4": {
+            "text": "Hozz\u00e1sz\u00f3l\u00e1sok felhaszn\u00e1l\u00f3i oldali kimenet\u00e9hez"
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP-k\u00f3d a hozz\u00e1sz\u00f3l\u00e1sok kimenet\u00e9hez"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS a hozz\u00e1sz\u00f3l\u00e1sok felhaszn\u00e1l\u00f3i oldali kimenet\u00e9hez"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS a hozz\u00e1sz\u00f3l\u00e1sok felhaszn\u00e1l\u00f3i oldali kimenet\u00e9hez"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "A hagyom\u00e1nyos, egyszer\u0171 id\u0151rendben megjelen\u0151 hozz\u00e1sz\u00f3l\u00e1sokhoz adjon meg 0-t. Hozz\u00e1sz\u00f3l\u00e1sl\u00e1nchoz (a v\u00e1laszok a megv\u00e1laszolt hozz\u00e1sz\u00f3l\u00e1ssal jelennek meg) adja meg a v\u00e1laszok megengedett maxim\u00e1lis m\u00e9lys\u00e9g\u00e9t (0 \u00e9s 4 k\u00f6z\u00f6tt aj\u00e1nlott)."
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Ebben a r\u00e9szben seg\u00edts\u00e9get kaphat a hozz\u00e1sz\u00f3l\u00e1sok megjelen\u00edt\u00e9s\u00e9hez a webhely felhaszn\u00e1l\u00f3i oldal\u00e1n. Itt minden tetsz\u0151leges."
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Sz\u00fcks\u00e9g eset\u00e9n v\u00e1lasszon a hozz\u00e1sz\u00f3l\u00e1s sz\u00f6veg\u00e9re a kijel\u00f6lt sorrendben alkalmazand\u00f3 egy vagy t\u00f6bb sz\u00f6vegform\u00e1z\u00f3t. Ha egyet sem v\u00e1laszt ki, akkor a sz\u00f6veg entit\u00e1sk\u00f3dolt lesz, az \u00faj sorokat <br> c\u00edmk\u00e9kk\u00e9 alak\u00edtja \u00e1t, a kiment <p> c\u00edmk\u00e9ben lesz."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Figyelmeztet\u00e9s: Csak olyan sz\u00f6vegform\u00e1z\u00f3kat v\u00e1lasszon, melyekr\u0151l ismert, hogy biztons\u00e1gosak a n\u00e9vtelen felhaszn\u00e1l\u00f3i bevitellel, mint az Entit\u00e1sk\u00f3dol\u00f3 (f\u0151modul) vagy a Textile Restricted (k\u00fcls\u0151 fejleszt\u00e9s). Ha bizonytalan, akkor itt ne v\u00e1lasszon ki semmit, ugyanis a rossz v\u00e1laszt\u00e1s biztons\u00e1gi probl\u00e9m\u00e1t okozhat."
         }
     }
 }

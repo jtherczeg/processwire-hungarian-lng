@@ -48,7 +48,7 @@
             "text": "Jobbra igaz\u00edt\u00e1s"
         },
         "d7e02762cdb4621a77388689b2ee53c0": {
-            "text": "Nagyobb verzi\u00f3 csatol\u00e1sa?"
+            "text": "Csatol\u00e1s nagyobb verzi\u00f3hoz?"
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "A kijel\u00f6l\u00e9shez kihagyand\u00f3 mez\u0151k"
@@ -61,6 +61,12 @@
         },
         "5a8f9d5840811602e6806392ffef0523": {
             "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt ez a modul bele fogja venni az <img> c\u00edmk\u00e9be a sz\u00e9less\u00e9g \u00e9s a magass\u00e1g attrib\u00fatumot. Alkalmazkod\u00f3 k\u00e9pek haszn\u00e1lata eset\u00e9n letilthatja ezt a viselked\u00e9st. Jel\u00f6lje be a jel\u00f6l\u0151n\u00e9gyzetet a sz\u00e9less\u00e9g \u00e9s a magass\u00e1g attrib\u00fatum letilt\u00e1s\u00e1hoz."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Nincs miniat\u0171r k\u00e9p gener\u00e1l\u00e1s"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Ha bejel\u00f6li, akkor a k\u00e9pv\u00e1laszt\u00e1s teljes m\u00e9ret\u0171 k\u00e9peket fog haszn\u00e1lni a miniat\u0171r\u00f6k helyett."
         }
     }
 }
