@@ -2,18 +2,6 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
     "translations": {
-        "017e8b29849843b6daa2501aad99f7c1": {
-            "text": "J\u00f3v\u00e1hagy\u00e1sra v\u00e1r"
-        },
-        "6f8063417ab31f38d864c28302f3de2f": {
-            "text": "J\u00f3v\u00e1hagyva"
-        },
-        "19af9433f96a08338dbcf1ea82186f7c": {
-            "text": "SZEM\u00c9T - %d nap ut\u00e1n automatikusan t\u00f6rl\u00e9sre fog ker\u00fclni"
-        },
-        "11b3f4cb51868835eff93632baf73f0b": {
-            "text": "Hozz\u00e1sz\u00f3l\u00e1sok moder\u00e1l\u00e1sa"
-        },
         "cba07fe99979c9f01d9c61a39aae3045": {
             "text": "A weblap mez\u0151 haszn\u00e1lata a hozz\u00e1sz\u00f3l\u00e1s \u0171rlapban?"
         },
@@ -41,44 +29,17 @@
         "a27c92ebebda4931039636893b5c716d": {
             "text": "A felhaszn\u00e1l\u00f3k \u00e1ltal bek\u00fcld\u00f6tt hozz\u00e1sz\u00f3l\u00e1sokat t\u00e1rol\u00f3 mez\u0151 egy oldalhoz"
         },
-        "e0c0bcd1370c684469277f8066e3c64f": {
-            "text": "Lap"
-        },
-        "957cba65c7639be540b3bce16e2c8e57": {
-            "text": "Felad\u00f3"
-        },
-        "d856205677eeb676b9b04c173a231c6b": {
-            "text": "E-mail c\u00edm"
-        },
-        "4df6dabe367988d938bbf565bbcdbe43": {
-            "text": "Weblap"
-        },
-        "5be3f30f5db8303d4baac9920be07c45": {
-            "text": "\u00c1llapot"
-        },
-        "15ede22296b59c623fa73c28c6dbe629": {
-            "text": "Sz\u00f6veg"
-        },
         "4f214f3246f03a94773427de4f2e7699": {
             "text": "Mind - A lapszerkeszt\u00e9si hozz\u00e1f\u00e9r\u00e9ssel rendelkez\u0151 felhaszn\u00e1l\u00f3nak kell j\u00f3v\u00e1hagynia az \u00f6sszes hozz\u00e1sz\u00f3l\u00e1st"
         },
         "d3a76eec189143c6945282d37bd81bb5": {
             "text": "Csak az \u00fajak - Csak a kor\u00e1bban j\u00f3v\u00e1hagyatlan hozz\u00e1sz\u00f3l\u00e1sokat bek\u00fcld\u0151 felhaszn\u00e1l\u00f3k hozz\u00e1sz\u00f3l\u00e1sait kell j\u00f3v\u00e1hagyni"
         },
-        "2e5d62a652e3bfee772867720b3b000e": {
-            "text": "\u00c9rtes\u00edt\u00e9si e-mail c\u00edm"
-        },
-        "f1f5c03105f32ee4f4eb3004e2fb49be": {
-            "text": "Az e-mail c\u00edm, melyre \u00faj hozz\u00e1sz\u00f3l\u00e1s bek\u00fcld\u00e9sekor \u00e9rtes\u00edt\u00e9st kell k\u00fcldeni. T\u00f6bb e-mail c\u00edm vessz\u0151vel v\u00e1laszthat\u00f3 el."
-        },
         "9bf3d3d959883d38b84f1990340bff84": {
             "text": "Rendez\u00e9s a leg\u00fajabbt\u00f3l a legr\u00e9gebbiig?"
         },
         "0c9743be855a9e62ab36d4d4eb321932": {
             "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt a hozz\u00e1sz\u00f3l\u00e1sok id\u0151rendben (legr\u00e9gebbit\u0151l a leg\u00fajabbig) ker\u00fclnek rendez\u00e9sre. Jel\u00f6lje be ezt a jel\u00f6l\u0151n\u00e9gyzetet, ha meg akarja ford\u00edtani az ir\u00e1nyt."
-        },
-        "4a97712de239878854839560e1765f5a": {
-            "text": "A hozz\u00e1sz\u00f3l\u00e1s bek\u00fcldve ide: %s"
         },
         "0c6e8a761530efc7ecfe773a5b5a6f7e": {
             "text": "Nincs - A hozz\u00e1sz\u00f3l\u00e1sok bek\u00fcld\u00e9se azonnal t\u00f6rt\u00e9nik"
@@ -143,9 +104,6 @@
         "82829c5912f395b029a87c565359835c": {
             "text": "Sz\u00f6vegform\u00e1z\u00f3k"
         },
-        "244b33509aa9c5f8b21f92ca80cbdca4": {
-            "text": "Hozz\u00e1sz\u00f3l\u00e1sok felhaszn\u00e1l\u00f3i oldali kimenet\u00e9hez"
-        },
         "e2ee73419f58949b9fdfb97f23a8a6ac": {
             "text": "PHP-k\u00f3d a hozz\u00e1sz\u00f3l\u00e1sok kimenet\u00e9hez"
         },
@@ -166,6 +124,24 @@
         },
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
             "text": "Figyelmeztet\u00e9s: Csak olyan sz\u00f6vegform\u00e1z\u00f3kat v\u00e1lasszon, melyekr\u0151l ismert, hogy biztons\u00e1gosak a n\u00e9vtelen felhaszn\u00e1l\u00f3i bevitellel, mint az Entit\u00e1sk\u00f3dol\u00f3 (f\u0151modul) vagy a Textile Restricted (k\u00fcls\u0151 fejleszt\u00e9s). Ha bizonytalan, akkor itt ne v\u00e1lasszon ki semmit, ugyanis a rossz v\u00e1laszt\u00e1s biztons\u00e1gi probl\u00e9m\u00e1t okozhat."
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Viselked\u00e9s"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Komment moder\u00e1l\u00e1sa"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Ez meghat\u00e1rozza hogy egy \u00faj komment mikor jelenik meg az oldal\u00e1n."
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "\u00c9rtes\u00edt\u00e9sek"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Admin \u00e9rtes\u00edt\u00e9si e-mail c\u00edm"
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Kimenet"
         }
     }
 }
